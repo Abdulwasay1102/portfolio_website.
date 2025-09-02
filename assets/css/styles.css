@@ -1368,7 +1368,7 @@ body {
 @media screen and (max-width: 768px) {
   .services__container,
   .work__container {
-     grid-template-columns: repeat(2, 1fr) !important; /* 2 equal columns */
+     grid-template-columns: 1fr!important; /* 2 equal columns */
   gap: 1.5rem;
     justify-content: center;
   }
