@@ -1236,7 +1236,7 @@ body.light-theme {
   gap: 2rem;
 }
 .services__title {
-  font-size: 1rem;
+  font-size: 1rem !important; 
   margin-bottom: 2.5rem;
 }
 
@@ -1275,7 +1275,7 @@ body.light-theme {
 
 .contact__card-title,
 .contact__card-data {
-  font-size:0.6rem;
+  font-size:0.6rem !important;
 }
 
 .contact__card-title {
