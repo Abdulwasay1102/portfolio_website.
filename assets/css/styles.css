@@ -1306,4 +1306,12 @@ body.light-theme {
   transition: 0.4s;
 }
 
+
+.work__container {
+  padding-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem; /* space between cards */
+}
+
   }
